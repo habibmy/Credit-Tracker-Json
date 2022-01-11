@@ -1,0 +1,63 @@
+{
+  "simpl": [
+    {
+      "id": 1,
+      "desc": "hello",
+      "amount":3000
+    },
+    {
+      "id": 2,
+      "desc": "Bigbazzar",
+      "amount":-200
+    }
+  ],
+  "lazypay": [
+    {
+      "id": 1,
+      "desc": "hello",
+      "amount":3000
+    },
+    {
+      "id": 2,
+      "desc": "Bigbazzar",
+      "amount":-200
+    }
+  ],
+  "mobiqwikZip": [
+    {
+      "id": 1,
+      "desc": "hello",
+      "amount":3000
+    },
+    {
+      "id": 2,
+      "desc": "Bigbazzar",
+      "amount":-200
+    }
+  ],
+  "cc": [
+    {
+      "id": 1,
+      "desc": "hello",
+      "amount":3000
+    },
+    {
+      "id": 2,
+      "desc": "Bigbazzar",
+      "amount":-200
+    }
+  ],
+  "flipkartPaylater": [
+    {
+      "id": 1,
+      "desc": "hello",
+      "amount":3000
+    },
+    {
+      "id": 2,
+      "desc": "Bigbazzar",
+      "amount":-200
+    }
+  ]
+  
+}
